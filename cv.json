@@ -10,34 +10,58 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Zapopan",
+      "city": "Guadalajara",
       "countryCode": "MX",
       "region": "Jalisco"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "andreangel",
+        "url": "https://www.linkedin.com/in/andre-angel/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Yunik00",
+        "url": "https://github.com/Yunik00"
       }
     ]
   },
-  "work": [{
-    "name": "Accenture",
-    "position": "Packaged App Development Senior Analyst",
-    "url": "https://www.accenture.com/mx-es",
-    "startDate": "July 2024",
-    "endDate": "Present",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
+  "work": [
+    {
+      "name": "Accenture",
+      "position": "Packaged App Development Senior Analyst",
+      "url": "https://www.accenture.com/mx-es",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Developed and customized ServiceNow applications, supported integrations, and worked directly with stakeholders to address complex business requirements. Applied a structured, process-oriented approach to solution design and troubleshooting while collaborating closely with subject-matter experts to deliver reliable and scalable outcomes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Volteo Digital",
+      "position": "ServiceNow Developer",
+      "url": "https://www.linkedin.com/company/volteodigital/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-07-01",
+      "summary": "Led and mentored new ServiceNow developers while directing, reviewing, and validating the work of technical team members. Took full responsibility for hands-on development, quality assurance, and the creation of detailed technical documentation. Analyzed and understood business and functional requirements to design effective ServiceNow solutions. Oversaw deployment operations end to end and assumed the role of solution architect after the previous architect exited the project, ensuring technical continuity, delivery quality, and team alignment.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Volteo Digital",
+      "position": "Jr ServiceNow Developer",
+      "url": "https://www.linkedin.com/company/volteodigital/",
+      "startDate": "2022-04-01",
+      "endDate": "2022-10-01",
+      "summary": "Successfully translated business requirements into scalable technical solutions while collaborating with cross-functional teams. Designed, tested, and implemented platform solutions following industry best practices, resolved application and integration issues, and contributed to continuous improvement initiatives with a strong focus on process, structure, and quality.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "",
     "position": "",
