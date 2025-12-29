@@ -1,32 +1,14 @@
-# Astro Starter Kit: Basics
+## JSON Resume Schema
 
-```sh
-npm create astro@latest -- --template basics
-```
+[JSON Resume](https://jsonresume.org/schema)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### What is it?
 
-## 🚀 Project Structure
+JSON Resume is a community driven open-source initiative to create JSON-based standard for resumes.
 
-Inside of your Astro project, you'll see the following folders and files:
+## Design
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
-
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+Based on [Bartosz Jarocki](https://github.com/BartoszJarocki/cv) minimalist CV
 
 ## 🧞 Commands
 
@@ -41,6 +23,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
