@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andre Angel Castellanos",
-    "label": "Senior ServiceNow Developer with 4+ years of experience as a developer",
+    "label": "Senior ServiceNow Developer with 4+ years of experience",
     "image": "https://media.licdn.com/dms/image/v2/C4E03AQGfRH76QEcRuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1634837613005?e=1768435200&v=beta&t=I7Zl8Ep2ck7N0gDLiDavCQX3u1TSLbWHprYcAHthxqE",
     "email": "aime.angel@hotmail.com",
     "phone": "+52 3334932281",
     "url": "",
-    "summary": "ServiceNow certified system administrator and developer with experience working in the information technology and services industry. Skilled in programming languages, and ServiceNow platform development.",
+    "summary": "ServiceNow developer and senior analyst who builds scalable solutions with users in mind. I enjoy learning, leading teams, and designing experiences that make complex systems feel simple—powered by coffee and consistency.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,7 +34,7 @@
       "url": "https://www.accenture.com/mx-es",
       "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Developed and customized ServiceNow applications, supported integrations, and worked directly with stakeholders to address complex business requirements. Applied a structured, process-oriented approach to solution design and troubleshooting while collaborating closely with subject-matter experts to deliver reliable and scalable outcomes.",
+      "summary": "Owned the legacy-to-modern workspace transition by leading technical implementation and creating knowledge transfer materials, enabling team self-sufficiency and ensuring a smooth, low-impact adoption for end users.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://www.linkedin.com/company/volteodigital/",
       "startDate": "2022-10-01",
       "endDate": "2024-07-01",
-      "summary": "Led and mentored new ServiceNow developers while directing, reviewing, and validating the work of technical team members. Took full responsibility for hands-on development, quality assurance, and the creation of detailed technical documentation. Analyzed and understood business and functional requirements to design effective ServiceNow solutions. Oversaw deployment operations end to end and assumed the role of solution architect after the previous architect exited the project, ensuring technical continuity, delivery quality, and team alignment.",
+      "summary": "Stabilized and advanced ServiceNow delivery by leading and mentoring a team, owning development and QA, and assuming solution-architecture responsibilities to maintain quality, alignment, and on-time deployments.",
       "highlights": [
         "Started the company"
       ]
@@ -56,7 +56,7 @@
       "url": "https://www.linkedin.com/company/volteodigital/",
       "startDate": "2022-04-01",
       "endDate": "2022-10-01",
-      "summary": "Successfully translated business requirements into scalable technical solutions while collaborating with cross-functional teams. Designed, tested, and implemented platform solutions following industry best practices, resolved application and integration issues, and contributed to continuous improvement initiatives with a strong focus on process, structure, and quality.",
+      "summary": "Contributed to scalable, reliable platform delivery by translating business needs into structured solutions and supporting continuous improvement initiatives.",
       "highlights": [
         "Started the company"
       ]
@@ -104,15 +104,176 @@
     "url": "https://publication.com",
     "summary": "Description…"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+  "skills": [
+  {
+    "name": "ServiceNow Platform",
+    "level": "Expert",
+    "keywords": [
+      "ServiceNow Administration",
+      "ITSM",
+      "HRSD",
+      "Service Catalog",
+      "Flow Designer",
+      "Business Rules",
+      "Client Scripts",
+      "UI Policies",
+      "ACLs",
+      "Data Policies",
+      "Update Sets"
+    ]
+  },
+  {
+    "name": "ServiceNow Development",
+    "level": "Expert",
+    "keywords": [
+      "JavaScript",
+      "Script Includes",
+      "Glide API",
+      "REST Integrations",
+      "Inbound & Outbound Integrations",
+      "Scheduled Jobs",
+      "Performance Optimization",
+      "Scoped Applications"
+    ]
+  },
+  {
+    "name": "System Administration",
+    "level": "Advanced",
+    "keywords": [
+      "User & Role Management",
+      "Instance Configuration",
+      "Upgrade Management",
+      "Security & Access Control",
+      "Instance Health",
+      "Logging & Monitoring",
+      "Best Practices & Governance"
+    ]
+  },
+  {
+    "name": "HR Service Delivery (HRSD)",
+    "level": "Expert",
+    "keywords": [
+      "Certified Implementation Specialist – HRSD",
+      "HR Case Management",
+      "Employee Center",
+      "Lifecycle Events",
+      "HR Integrations",
+      "User Experience Optimization"
+    ]
+  },
+  {
+    "name": "IT Service Management (ITSM)",
+    "level": "Expert",
+    "keywords": [
+      "Incident Management",
+      "Service Catalog",
+      "Change Management"
+    ]
+  },
+  {
+    "name": "Virtual Agent",
+    "level": "Expert",
+    "keywords": [
+      "Incident Management"
+    ]
+  },
+  {
+    "name": "UX/UI Design",
+    "level": "Advanced",
+    "keywords": [
+      "User-Centered Design",
+      "UX Research",
+      "Usability & Accessibility",
+      "Information Architecture",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "Heuristic Evaluation"
+    ]
+  },
+  {
+    "name": "Web & UI Development",
+    "level": "Advanced",
     "keywords": [
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "UI Builder",
+      "Workspace Configuration",
+      "Design-to-Development Handoff"
     ]
-  }],
+  },
+  {
+    "name": "HTML",
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "UI Builder",
+      "Workspace Configuration",
+      "Design-to-Development Handoff"
+    ]
+  },
+  {
+    "name": "CSS",
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "UI Builder",
+      "Workspace Configuration",
+      "Design-to-Development Handoff"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "level": "Advanced",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "UI Builder",
+      "Workspace Configuration",
+      "Design-to-Development Handoff"
+    ]
+  },
+  {
+    "name": "Architecture & Solution Design",
+    "level": "Advanced",
+    "keywords": [
+      "Solution Architecture",
+      "Scalable Design",
+      "Legacy-to-Modern Migrations",
+      "Technical Documentation",
+      "Platform Strategy"
+    ]
+  },
+  {
+    "name": "Quality & Delivery",
+    "level": "Advanced",
+    "keywords": [
+      "Quality Assurance",
+      "Testing & Validation",
+      "Release Management",
+      "Deployment Oversight",
+      "Continuous Improvement"
+    ]
+  },
+  {
+    "name": "Leadership & Collaboration",
+    "level": "Advanced",
+    "keywords": [
+      "Mentoring Developers",
+      "Code Reviews",
+      "Stakeholder Collaboration",
+      "Cross-Functional Teams",
+      "Knowledge Transfer"
+    ]
+  }
+]
+,
   "languages": [
     {
       "language": "English",
