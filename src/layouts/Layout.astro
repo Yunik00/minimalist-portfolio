@@ -44,4 +44,17 @@
 		margin: 0;
 		text-wrap: pretty;
 	}
+
+	.print {
+		display: none !important;
+	}
+
+	@media print {
+		.print {
+			display: block !important;
+		}
+		.no-print {
+			display: none !important;
+		}
+	}
 </style>

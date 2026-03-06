@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Andre Angel Castellanos",
+    "name": "Alix Andre Angel Castellanos",
     "label": "Senior ServiceNow Developer with 4+ years of experience",
-    "image": "https://media.licdn.com/dms/image/v2/C4E03AQGfRH76QEcRuA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1634837613005?e=1768435200&v=beta&t=I7Zl8Ep2ck7N0gDLiDavCQX3u1TSLbWHprYcAHthxqE",
+    "image": "https://media.licdn.com/dms/image/v2/C4E03AQGfRH76QEcRuA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1634837613005?e=1773878400&v=beta&t=HjOVFwxdvETlfhMHpwRSWv_Nsi-YwYG--b0x54ioh3o",
     "email": "aime.angel@hotmail.com",
     "phone": "+52 3334932281",
     "url": "",
-    "summary": "ServiceNow developer and senior analyst who builds scalable solutions with users in mind. I enjoy learning, leading teams, and designing experiences that make complex systems feel simple—powered by coffee and consistency.",
+    "summary": "ServiceNow developer and senior analyst who builds scalable solutions with users in mind. I enjoy learning, leading teams, and designing experiences that make complex systems feel simple — powered by coffee and consistency.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -46,17 +46,6 @@
       "startDate": "2022-10-01",
       "endDate": "2024-07-01",
       "summary": "Stabilized and advanced ServiceNow delivery by leading and mentoring a team, owning development and QA, and assuming solution-architecture responsibilities to maintain quality, alignment, and on-time deployments.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Volteo Digital",
-      "position": "Jr ServiceNow Developer",
-      "url": "https://www.linkedin.com/company/volteodigital/",
-      "startDate": "2022-04-01",
-      "endDate": "2022-10-01",
-      "summary": "Contributed to scalable, reliable platform delivery by translating business needs into structured solutions and supporting continuous improvement initiatives.",
       "highlights": [
         "Started the company"
       ]
@@ -105,23 +94,6 @@
     "summary": "Description…"
   }],
   "skills": [
-  {
-    "name": "ServiceNow Platform",
-    "level": "Expert",
-    "keywords": [
-      "ServiceNow Administration",
-      "ITSM",
-      "HRSD",
-      "Service Catalog",
-      "Flow Designer",
-      "Business Rules",
-      "Client Scripts",
-      "UI Policies",
-      "ACLs",
-      "Data Policies",
-      "Update Sets"
-    ]
-  },
   {
     "name": "ServiceNow Development",
     "level": "Expert",
@@ -189,18 +161,6 @@
       "Prototyping",
       "Design Systems",
       "Heuristic Evaluation"
-    ]
-  },
-  {
-    "name": "Web & UI Development",
-    "level": "Advanced",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "UI Builder",
-      "Workspace Configuration",
-      "Design-to-Development Handoff"
     ]
   },
   {
@@ -297,6 +257,7 @@
   }],
   "projects": [{
     "name": "Project",
+    "isActive": true,
     "startDate": "2019-01-01",
     "endDate": "2021-01-01",
     "description": "Description...",
